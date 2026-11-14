@@ -1,3 +1,5 @@
+> **Previous implementation — see the current MQTT Fundamentals example.** This repository is preserved as a reference for the original Swing/Blackboard design. For the actively maintained Java MQTT tutorial and a simpler Brokerverse GUI that share `Parcel`, `Publisher`, and `Subscriber`, visit **[MQTT Fundamentals](https://github.com/csc-3100/cloud-mqtt-fundamentals)**. This repository is no longer the recommended starting point.
+
 ![Static Badge](https://img.shields.io/badge/author-javiergs-orange)
 ![GitHub repo size](https://img.shields.io/github/repo-size/javiergs/App-MQworld)
 ![Java](https://img.shields.io/badge/Java-17+-blue)
